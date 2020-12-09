@@ -1,0 +1,21 @@
+body {
+background: url('background.jpg') no-repeat center center fixed; 
+webkit-background-size: cover;
+moz-background-size: cover;
+o-background-size: cover;
+background-size: cover;
+}
+
+
+
+
+button {     
+    background-color: Transparent;
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;        
+ 	position: relative;
+ 	top: -25px;
+ 	left: 150px; 	
+}
